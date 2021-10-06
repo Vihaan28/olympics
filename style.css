@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color:lavenderblush;
+}
+#mycanvas{
+    background-color: white;
+    border-radius: 10px;
+    border-color: yellow;
+    border-style: groove;
+}
